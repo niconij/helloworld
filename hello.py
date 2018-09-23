@@ -1,2 +1,2 @@
 print('Hello world')
-print('What a great script')
+print('This a marvel')
